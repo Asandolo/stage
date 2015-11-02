@@ -1,0 +1,95 @@
+body {
+	background-image: url("../imgs/bg.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #eee;
+    margin-top
+}
+
+
+#nav{
+	z-index: 99;
+	background-color: rgba(22,22,22,0.3);
+	position: fixed;
+	bottom: 0;
+	top: 0;
+	left: -200px;
+	width:200px;
+	display: inline-block;
+	display: inline;
+}
+
+
+#nav a {
+	text-decoration: none;
+	color: inherit;
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+	border: 2px white solid;
+	padding: 20px;
+	color: white;
+	margin-bottom: 10px
+}
+
+#nav a:hover {
+	border: 2px black solid;
+	background-color: white;
+	color: black;
+	color: black;
+}
+#b {
+	z-index: 50;
+	position:fixed;
+	top:10px;
+	left:10px;
+	-webkit-transition: all 425ms ease;
+	-moz-transition: all 425ms ease;
+	-ms-transition: all 425ms ease;
+	-o-transition: all 425ms ease;
+	transition: all 425ms ease;
+}
+
+.roundedImage{
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
+
+.gray {
+	background-color: rgba(204,204,204,0.6);
+	margin-bottom: 10px;
+}
+
+.black {
+	background-color: rgba(0,0,0,0.6);
+	margin-bottom: 10px;
+}
+
+
+.hov span {
+    visibility: hidden;
+}
+ 
+.hov img:hover + span {
+    visibility: visible;
+}
+
+.contact a{
+	text-decoration: none;
+	content: white;
+}
+
+a.link {
+	text-decoration: none;
+	color: white;
+}
+
+a.link:hover {
+	text-decoration: underline;
+
+}
