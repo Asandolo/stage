@@ -10,6 +10,6 @@ inportez stage.sql
 renomez db.php.dist
 Ligne 4 à 8 mettre les informations de votre BDD
 
-Bonne recherches :)
+Bonne recherche :)
 
 Par - Asandolo 
