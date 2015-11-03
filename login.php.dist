@@ -26,7 +26,8 @@ if (isset($_POST['go'])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ADM LOGIN</title>
+	<title>STAGE LOGIN</title>
+	<meta charset="UTF-8" />
 </head>
 <body>
 

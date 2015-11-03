@@ -10,7 +10,7 @@ if (!isset($_SESSION["login"]) || empty($_SESSION["login"])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Alexandre - Asandolo</title>
+	<title>STAGE</title>
 	<meta charset="UTF-8"/>
 	<link rel="stylesheet" type="text/css" href="inc/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="inc/css/font-awesome.css">
