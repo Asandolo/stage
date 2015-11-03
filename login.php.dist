@@ -36,7 +36,7 @@ if (isset($_POST['go'])) {
 	<input type="submit" name="go" value="C'est cool les grand boutton, non ? moi j'aime bien !">
 </form>
 
-<p>VOUS NE PASSEREZ PAS !</p>
+<p>Connexion à l'outil</p>
 
 </body>
 </html>
